@@ -30,3 +30,8 @@ order by 정렬 기준 값 asc(오름차순), desc(내림차순)
 ## 4) BETWEEN
 1) 컬럼명 BETWEEN 시작일자 AND 종료일자
 2) 컬럼명 >= 시작일자 AND 컬럼명 <= 종료일자
+
+## 5) <append condition="">
+Devon IF 문장
+값이 존재시 where조건에 추가 미존재시 조건절 제외
+(수행시간 단축)
